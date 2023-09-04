@@ -1,7 +1,3 @@
-body{
-  text-align: center;
-}
-h2{
-  font-style: arial;
+body .h2{
   text-align: center;
 }
